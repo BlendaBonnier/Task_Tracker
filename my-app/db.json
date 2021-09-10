@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Ring mamma",
+      "day": "imorgon",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Ring Daniel",
+      "day": "imorgon",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Smsa",
+      "day": "Idag",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
